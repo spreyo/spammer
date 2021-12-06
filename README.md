@@ -1,2 +1,2 @@
-# spammer
-a python app
+## spammer
+**A python app that spams text.**
